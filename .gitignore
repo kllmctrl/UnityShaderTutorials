@@ -1,0 +1,16 @@
+.vs
+# Assets/Packages
+/Library
+/UserSettings
+/Logs
+Temp
+*.csproj
+*.sln
+*.userprefs
+_Temp
+
+# sublime text
+*.sublime-project
+*.sublime-workspace
+
+
